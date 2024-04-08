@@ -1,0 +1,22 @@
+#sidebar {
+    line-height:30px;
+    
+    height:100%;    
+    width:100px;
+    float:left;
+    padding:5px;          
+
+
+}
+#main-section {
+    width:100%;
+    float:left;
+    padding:10px;    
+    border-radius: 1px solid black;    
+}
+
+.sticky-nav{
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
